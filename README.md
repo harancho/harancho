@@ -5,8 +5,8 @@
 - 🔭 I’m currently working at: &emsp;&emsp;&emsp; MiBi Services as a Backend Developer Intern<br>
 - 🌱 I’m currently learning: &emsp;&emsp;&emsp;&emsp; Django, GraphQl, Blockchain Implementation, DSA<br>
 - 👯 I’m looking to collaborate on: &emsp; Backend projects<br>
-- 🤔 I’m looking for help with: &emsp;&emsp; My ongoing projects which may include every stream!😄<br>
-- 💬 Ask me about: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Python, JS , Sqlite3, Web-D, Android, Flutter, Project Implementation <br>
+- 🤔 I’m looking for help with: &emsp;&emsp;&emsp; My ongoing projects which may include every stream!😄<br>
+- 💬 Ask me about: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Python, JS , Sqlite3, Web-D, Android, Flutter, Project Implementation <br>
 - 📫 How to reach me: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; My mail ID - gupta.harsh130@gmail.com<br>
 - 😄 Fun Fact: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Once you come in my contact,there is no way behind 😄
 
