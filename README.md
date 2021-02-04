@@ -1,6 +1,5 @@
 ### Hi there 👋
-### I am Harsh Gupta:)
-
+<h2 align="center">I am Harsh Gupta:)</h2> 
 
 Here are some ideas to get you started:
 
