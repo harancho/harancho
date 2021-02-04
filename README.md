@@ -1,8 +1,7 @@
 ### Hi there 👋
 ### I am Harsh Gupta:) 
 <h2 align="center">About Me</h2>
-
-<h4>
+<div background-color="coral">
 - ⚡ Quick Bio: ... Assiociating myself with a few adjectives -> dogLover-foody-gamer-cricketIsLove-coder-developer
 - 🔭 I’m currently working at ... MiBi Services as a Backend Developer Intern
 - 🌱 I’m currently learning ... Django, GraphQl, Blockchain Implementation, DSA 
@@ -11,4 +10,4 @@
 - 💬 Ask me about ... Python, JS , Sqlite3, Web-D, Android, Flutter, Project Implementation 
 - 📫 How to reach me: ... My mail ID - gupta.harsh130@gmail.com
 - 😄 Fun Fact: ...  Once you come in my contact,there is no way behind 😄
-</h4>
+</div>
