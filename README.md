@@ -1,14 +1,14 @@
 ### Hi there 👋
 ### I am Harsh Gupta:) &emsp;&emsp;&emsp;&emsp;
 <h2 align="center">About Me</h2>
-- ⚡ Quick Bio: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Assiociating myself with a few adjectives -> dogLover-foody-gamer-cricketIsLove-coder-developer<br>
+- ⚡ Quick Bio: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Assiociating myself with a few adjectives -> dogLover-foody-gamer-cricketIsLove-coder-developer<br>
 - 🔭 I’m currently working at: &emsp;&emsp;&emsp; MiBi Services as a Backend Developer Intern<br>
-- 🌱 I’m currently learning: &emsp;&emsp;&emsp; Django, GraphQl, Blockchain Implementation, DSA<br>
+- 🌱 I’m currently learning: &emsp;&emsp;&emsp;&emsp; Django, GraphQl, Blockchain Implementation, DSA<br>
 - 👯 I’m looking to collaborate on: &emsp; Backend projects<br>
 - 🤔 I’m looking for help with: &emsp;&emsp; My ongoing projects which may include every stream!😄<br>
-- 💬 Ask me about: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Python, JS , Sqlite3, Web-D, Android, Flutter, Project Implementation <br>
-- 📫 How to reach me: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; My mail ID - gupta.harsh130@gmail.com<br>
-- 😄 Fun Fact: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Once you come in my contact,there is no way behind 😄
+- 💬 Ask me about: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Python, JS , Sqlite3, Web-D, Android, Flutter, Project Implementation <br>
+- 📫 How to reach me: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; My mail ID - gupta.harsh130@gmail.com<br>
+- 😄 Fun Fact: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Once you come in my contact,there is no way behind 😄
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
