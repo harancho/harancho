@@ -1,8 +1,6 @@
 ### Hi there 👋
 ### I am Harsh Gupta:)
 
-<!--
-**harancho/harancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Python, JS , Sqlite3, Web-D, Android, Flutter, Project Implementation 
 - 📫 How to reach me: ... My mail ID - gupta.harsh130@gmail.com
 - 😄 Fun Fact: ...  Once you come in my contact,there is no way behind 😄
+
+<!--
+**harancho/harancho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
