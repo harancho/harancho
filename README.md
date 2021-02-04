@@ -15,4 +15,4 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{burnerlee}/count.svg" alt="Burnerlee :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{harancho}/count.svg" alt="Harancho :: Visitor's Count" /></p>
