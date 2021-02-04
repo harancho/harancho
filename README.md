@@ -1,7 +1,6 @@
 ### Hi there 👋
 <h2 align="center">I am Harsh Gupta:)</h2> 
-
-Here are some ideas to get you started:
+<h2 align="center">About Me</h2>
 
 - ⚡ Quick Bio: ... Assiociating myself with a few adjectives -> dogLover-foody-gamer-cricketIsLove-coder-developer
 - 🔭 I’m currently working at ... MiBi Services as a Backend Developer Intern
