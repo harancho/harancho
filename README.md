@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Harsh Gupta:) 
 <h2 align="center">About Me</h2>
-<div style="background-color:powderblue;">
+<div style="background-color:powderblue;" align="center">
 - ⚡ Quick Bio: ... Assiociating myself with a few adjectives -> dogLover-foody-gamer-cricketIsLove-coder-developer<br>
 - 🔭 I’m currently working at ... MiBi Services as a Backend Developer Intern<br>
 - 🌱 I’m currently learning ... Django, GraphQl, Blockchain Implementation, DSA<br>
