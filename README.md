@@ -1,8 +1,8 @@
 ### Hi there 👋
-### I am Harsh Gupta:) 
+### I am Harsh Gupta:) &emsp;&emsp;&emsp;&emsp;
 <h2 align="center">About Me</h2>
-- ⚡ Quick Bio: &emsp;&emsp;&emsp;&emsp;&emsp; Assiociating myself with a few adjectives -> dogLover-foody-gamer-cricketIsLove-coder-developer <br>
-- 🔭 I’m currently working at:         MiBi Services as a Backend Developer Intern<br>
+- ⚡ Quick Bio: &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Assiociating myself with a few adjectives -> dogLover-foody-gamer-cricketIsLove-coder-developer<br>
+- 🔭 I’m currently working at: &emsp;&emsp;&emsp;&emsp;&emsp; MiBi Services as a Backend Developer Intern<br>
 - 🌱 I’m currently learning:           Django, GraphQl, Blockchain Implementation, DSA<br>
 - 👯 I’m looking to collaborate on:    Backend projects<br>
 - 🤔 I’m looking for help with:        My ongoing projects which may include every stream!😄<br>
