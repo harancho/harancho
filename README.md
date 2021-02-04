@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Harsh Gupta:) 
 <h2 align="center">About Me</h2>
-<div style="background-color:powderblue;" align="center">
+<div style="background-color:powderblue;">
 - ⚡ Quick Bio: ... Assiociating myself with a few adjectives -> dogLover-foody-gamer-cricketIsLove-coder-developer<br>
 - 🔭 I’m currently working at ... MiBi Services as a Backend Developer Intern<br>
 - 🌱 I’m currently learning ... Django, GraphQl, Blockchain Implementation, DSA<br>
@@ -11,3 +11,8 @@
 - 📫 How to reach me: ... My mail ID - gupta.harsh130@gmail.com<br>
 - 😄 Fun Fact: ...  Once you come in my contact,there is no way behind 😄
 </div>
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{burnerlee}/count.svg" alt="Burnerlee :: Visitor's Count" /></p>
