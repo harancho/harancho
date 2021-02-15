@@ -14,7 +14,7 @@
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=harancho&show_icons=true&theme=synthwave&count_private=true&hide=stars&include_all_commits=true" alt="harancho :: Profile Stats" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{harancho}/count.svg" alt="Harancho :: Visitor's Count" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
